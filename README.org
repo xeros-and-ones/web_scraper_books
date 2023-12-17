@@ -1,0 +1,15 @@
+#+AUTHOR: Mohamed Tarek
+#+EMAIL: mohamed96tarek@hotmail.com
+
+
+
+* Introduction
+This is web scraper i wrote wile studying the tech behind web_scraping and understanding the concept of it
+
+* Tools
+- aiohttp
+- requests
+- beautifulsoup4
+- sqlite3
+
+it fetched the desired data with the defined css locators and persists it in a sqlite database.
